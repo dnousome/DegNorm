@@ -23,6 +23,7 @@ import(viridis)
 ## Export functions
 export(degnorm, 
     read_coverage_batch,
+    read_coverage,
     summary_CoverageClass,
     summary_DegNormClass,
     plot_heatmap,
